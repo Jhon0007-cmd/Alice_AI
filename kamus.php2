@@ -23,7 +23,7 @@ $ngeles = array("engga","tidak","ga","gak");
 ///////////////////////////////////////////////////////////////////////////////
 $bot_care = array("nampol","aduh","duh","kasian","cacad");
 ///////////////////////////////////////////////////////////////////////////////
-$zlucifer = array("zlucifer","admin");
+$jhon = array("jhon","admin");
 $tanya_siapa = array("nama","siapa");
 $diri = array("aku","ku","aq","gue","gua","gw");
 $bots = array("alice","kamu","bot");
